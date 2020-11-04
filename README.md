@@ -1,3 +1,4 @@
+# etch-sketc  
 Mini project that make a grid to the size of user desicion with buttons to choose random colors and to open a color picker.  
 The project is responsive to all device sizes.  
 The project is more heavy on the js side rathar than html/scss.  
