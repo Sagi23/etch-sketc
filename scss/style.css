@@ -17,8 +17,8 @@ body {
 }
 
 .container-grid {
-  width: 1000px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (250px)[auto-fit];
@@ -84,7 +84,7 @@ footer a {
     background-size: 100%;
   }
   .container-grid {
-    width: 300px;
+    width: 150px;
     height: 150px;
     display: -ms-grid;
     display: grid;
@@ -100,7 +100,7 @@ footer a {
     font-size: 25px;
   }
   .container-grid {
-    width: 2000px;
+    width: 1000px;
     height: 1000px;
     display: -ms-grid;
     display: grid;

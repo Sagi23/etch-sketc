@@ -14,8 +14,8 @@ body {
   text-align: center;
 }
 .container-grid {
-  width: 1000px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
   display: grid;
   grid-template-columns: repeat(auto-fit, 250px);
 }
@@ -71,7 +71,7 @@ footer {
     background-size: 100%;
   }
   .container-grid {
-    width: 300px;
+    width: 150px;
     height: 150px;
     display: grid;
     grid-template-columns: repeat(auto-fit, 100px);
@@ -85,7 +85,7 @@ footer {
     font-size: 25px;
   }
   .container-grid {
-    width: 2000px;
+    width: 1000px;
     height: 1000px;
     display: grid;
     grid-template-columns: repeat(auto-fit, 400px);
